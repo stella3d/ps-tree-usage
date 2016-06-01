@@ -1,6 +1,6 @@
 {
   "name": "ps-tree-usage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "monitor os-level resource usage of a process tree over time",
   "main": "usageMonitor.js",
   "scripts": {
