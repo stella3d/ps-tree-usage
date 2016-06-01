@@ -1,0 +1,20 @@
+{
+  "name": "ps-tree-usage",
+  "version": "0.1.0",
+  "description": "monitor os-level resource usage of a process tree over time",
+  "main": "usageMonitor.js",
+  "scripts": {
+    "test": "mocha *.spec.js"
+  },
+  "keywords": [
+    "usage",
+    "process"
+  ],
+  "author": "Stella Cannefax",
+  "license": "ISC",
+  "dependencies": {
+    "pidusage": "^1.0.1",
+    "ps-tree": "^1.1.0",
+    "underscore": "^1.8.3"
+  }
+}
